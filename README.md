@@ -27,7 +27,8 @@
 Чем будем пользоваться:  
 1) Язык программирования **Python** - https://www.python.org/downloads/  
 2) Редактор кода **VS Code** - https://code.visualstudio.com/  
-3) Клиент для управления версиями кода **GitHub Desktop** - https://central.github.com/deployments/desktop/desktop/latest/win32  
+3) Клиент Git`а для Windows - [ссылка](https://central.github.com/deployments/desktop/desktop/latest/win32)  
+4) Клиент Git`а для андроида - [ссылка](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=en)  
 Всё это скачайте, можете установить заранее...  
 
 ---
