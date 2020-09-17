@@ -36,6 +36,7 @@
 в SoloLearn подпишитесь на курс Python 3 и начинайте изучать  
 6) Stepik на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=org.stepic.droid&hl=ru)  
 7) [Notepad++](https://notepad-plus-plus.org/downloads/)  
+8) [Google Colab for Python](https://colab.research.google.com/)  
 
 Всё это скачайте, можете установить заранее...  
 
