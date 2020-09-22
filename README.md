@@ -1,7 +1,6 @@
 ## Курс Алгоритмизация и программирование - учебный год 2020-2021
 ### БЕЛЯКОВ Андрей Юрьевич - 89194913818 - для экстренных случаев
 
-[Рейтинг группы](https://docs.google.com/spreadsheets/d/1pUwkI5phMmji5xnegulpbJtcoNUg2s9QWh5CFuRQ3YE/edit?usp=sharing)  
 [![VK](https://pcoding.ru/ico/vk.png)](https://vk.com/permCube)
 [![telegram](https://pcoding.ru/ico/telegram.png)](https://t.me/AndreyPerm)
 [![email](https://pcoding.ru/ico/email.png)](mailto:tt@59.ru)
@@ -12,6 +11,7 @@
 * семестр 2: Лекций - 14; л/р - 11; Экзамен  
   
 В этом репозитории будут сконцентрированы **все материалы по учебному курсу** (ссылки на видео, учебники, программы с лекций, ссылки на контрольные задания).  
+## [Рейтинг группы](https://docs.google.com/spreadsheets/d/1pUwkI5phMmji5xnegulpbJtcoNUg2s9QWh5CFuRQ3YE/edit?usp=sharing)  
 
 ---
 
