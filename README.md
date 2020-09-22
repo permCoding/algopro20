@@ -37,6 +37,7 @@
 в SoloLearn подпишитесь на курс Python 3 и начинайте изучать  
 6) Stepik на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=org.stepic.droid&hl=ru)  
 7) [Notepad++](https://notepad-plus-plus.org/downloads/)  
+8) [Google Colab for Python](https://colab.research.google.com/)  
 
 Всё это скачайте, можете установить заранее...  
 
@@ -48,13 +49,21 @@
 Программа с лекции: https://repl.it/@pCoding/Lection01-A  
 
 ---  
-
-**Лекция 3, 4 - 17.09.2020** 
+**лабраб 1 - 16.09.2020**
 Устанавливаем и настраиваем нужное для работы  
 Работа с редактором кода  
-Циклы, Строки, Списки  
-Основы Git  
-Системы счисления  
+Тренировка решения задач  
+Выполняем задания Практикума №1 из [Учебника](https://pcoding.ru/pdf/PythonJunior.pdf)  
 
 ---  
+
+**Лекция 3, 4 - 17.09.2020** 
+Системы счисления  
+Циклы, Строки, Списки  
+[Блокнот с кодом, примерами, текстом по теме](https://colab.research.google.com/drive/1ILVGU5q6rc5bxR038nXylkXut4KNFmGh?usp=sharing)  
+
+---  
+
+
+Основы Git  
 
