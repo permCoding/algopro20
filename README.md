@@ -25,7 +25,7 @@
   
 Контрольные задания будете решать в моём **курсе на Степике**: https://stepik.org/64867/  
   
-**Учебник тут**: https://pcoding.ru/pdf/PythonJunior.pdf  
+**Учебник ПРАКТИКУМ тут**: https://pcoding.ru/pdf/PythonJunior.pdf  
 
 ---
 
@@ -65,6 +65,50 @@
 
 ---  
 
+**Лекция 5, 6 - 24.09.2020**  
 
+Самостоятельно посмотрите учебные видеоролики и ознакомьтесь:  
+1. [Арифметические и побитовые операции](https://youtu.be/gsdyjDg4w-g)  
+2. [Базовые возможности Питона](https://youtu.be/Z4JoqD-vZJY)  
+
+```
+Обратите внимание на:  
+* операции XOR, OR, AND  
+* функции ceil, floor  
+* оператор try
+* операторы цикла и break  
+* метод join
+```  
+
+3. [Стандарт PEP 8 по оформлению кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)  
+  
+
+Не забывайте, что к следующей лабораторке вам нужно выполнить два задания:  
+1. ЛАБРАБ 1 - из [Практикума](https://pcoding.ru/pdf/PythonJunior.pdf)  
+2. Задания в [Блокноте с Лекции 3, 4](https://colab.research.google.com/drive/1ILVGU5q6rc5bxR038nXylkXut4KNFmGh?usp=sharing)  
+
+---  
+
+
+**Лекция 7, 8 - 01.10.2020**  
+
+```
+
+```
+
+---  
+
+**Лекция 9, 10 - __.10.2020**  
+
+```
+
+```
+
+---  
+
+```
 Основы Git  
+```
+
+---
 
