@@ -20,8 +20,7 @@
 * [Первая точка входа BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
 * [Вторая точка входа Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 * [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
-* [Четвёртая точка входа Discord](https://discord.gg/8MnQJ3t)  
-
+* [Четвёртая точка входа Discord](https://discord.gg/ZK4kgdn)  
   
 Контрольные задания будете решать в моём **курсе на Степике**: https://stepik.org/64867/  
   
