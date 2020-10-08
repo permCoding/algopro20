@@ -5,8 +5,8 @@ name_file = 'task_4.txt'
 n = 7
 
 file = open(name_file, 'w')
-file.write(name_file)
-file.write(name_file)
-file.write(name_file)
+for i in range(n):
+    file.write(name_file + '\n')
+
 file.close()
 
