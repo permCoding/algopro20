@@ -2,11 +2,19 @@
 
 name_file = 'task_4.txt'
 
-n = 7
+n = 9
+
+a, b = 2, 1
 
 file = open(name_file, 'w')
 for i in range(n):
-    file.write(name_file + '\n')
+    tmp = str(a) + '/' + str(b)
+    file.write(tmp + '\n')
+    if i % 2 != 0:
+        a += 2
+    else:
+        b += 2
+    
 
 file.close()
 
