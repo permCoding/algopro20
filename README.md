@@ -13,18 +13,18 @@
 В этом репозитории будут сконцентрированы **все материалы по учебному курсу** (ссылки на видео, учебники, программы с лекций, ссылки на контрольные задания).  
 ## [Рейтинг группы](https://docs.google.com/spreadsheets/d/1pUwkI5phMmji5xnegulpbJtcoNUg2s9QWh5CFuRQ3YE/edit?usp=sharing)  
 
+### [Контрольные работы на Степике](https://stepik.org/64867/)  
+  
+### [Лабораторки - ПРАКТИКУМ](https://pcoding.ru/pdf/PythonJunior.pdf)  
+
 ---
 
-### Некоторые Лекции будем проводить дистанционно:  
+### Лекции дистанционно тут:  
 * [Первая точка входа BBB](https://bbb.psaa.ru/b/and-jca-drk)  
 * [Первая точка входа BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
 * [Вторая точка входа Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 * [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
 * [Четвёртая точка входа Discord](https://discord.gg/ZK4kgdn)  
-  
-Контрольные задания будете решать в моём **курсе на Степике**: https://stepik.org/64867/  
-  
-**Учебник ПРАКТИКУМ тут**: https://pcoding.ru/pdf/PythonJunior.pdf  
 
 ---
 
