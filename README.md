@@ -26,6 +26,12 @@
 * [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
 * [Четвёртая точка входа Discord](https://discord.gg/ZK4kgdn)  
 
+---  
+### Блокноты:  
+
+
+
+
 ---
 
 Чем будем пользоваться:  
