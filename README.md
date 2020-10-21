@@ -28,9 +28,8 @@
 
 ---  
 ### Блокноты:  
-
-
-
+* [Блокнот Лекция 3, 4 - Циклы](https://colab.research.google.com/drive/1ILVGU5q6rc5bxR038nXylkXut4KNFmGh?usp=sharing)  
+* [Блокнот Лекция 7, 8 - Коллекции](https://colab.research.google.com/drive/1W4No6ScA1EFZT5zjnxiqnOL0YkC0wvi6?usp=sharing)  
 
 ---
 
