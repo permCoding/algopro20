@@ -30,6 +30,7 @@
 ### Блокноты:  
 * [Блокнот Лекция 3, 4 - Циклы](https://colab.research.google.com/drive/1ILVGU5q6rc5bxR038nXylkXut4KNFmGh?usp=sharing)  
 * [Блокнот Лекция 7, 8 - Коллекции](https://colab.research.google.com/drive/1W4No6ScA1EFZT5zjnxiqnOL0YkC0wvi6?usp=sharing)  
+* [Блокнот Алгоритмы Часть 01](https://colab.research.google.com/drive/1iFjs5ufpdgjq6wOBbd98pj-J23JKEslr?usp=sharing)  
 
 ---
 
@@ -124,7 +125,19 @@ backend vs frontend
 документирование функций  
 alias - псевдоним  
 
+---  
 
+**Лекция 12, 13 - 22.10.2020**  
+[Блокнот Алгоритмы Часть 01](https://colab.research.google.com/drive/1iFjs5ufpdgjq6wOBbd98pj-J23JKEslr?usp=sharing)  
+**Алгоритмы**  
+* понятие алгоритма
+* способы отображения алгоритмов
+* сложность алгоритмов
+* сравнение алгоритмов
+* рекурсивные алгоритмы
+* алгоритмы сортировки
+
+---  
 
 ```
 
