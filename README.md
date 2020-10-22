@@ -129,6 +129,8 @@ alias - псевдоним
 
 **Лекция 12, 13 - 22.10.2020**  
 [Блокнот Алгоритмы Часть 01](https://colab.research.google.com/drive/1iFjs5ufpdgjq6wOBbd98pj-J23JKEslr?usp=sharing)  
+[ГОСТ 19.701-90 СХЕМЫ АЛГОРИТМОВ, ПРОГРАММ ДАННЫХ И СИСТЕМ](https://pcoding.ru/gost/GOST_19.701-90_%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.pdf)  
+
 **Алгоритмы**  
 * понятие алгоритма
 * способы отображения алгоритмов
