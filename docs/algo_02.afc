@@ -1,0 +1,18 @@
+<!DOCTYPE AFC>
+<algorithm version="1.2">
+  <branch>
+    <io vars="num, lst"/>
+    <assign src="-1" dest="result"/>
+    <for to="len(lst) - 1" from="0" var="id">
+      <branch>
+        <if cond="lst[it] == num">
+          <branch>
+            <assign src="id" dest="result"/>
+          </branch>
+          <branch/>
+        </if>
+      </branch>
+    </for>
+    <ou vars="result"/>
+  </branch>
+</algorithm>
