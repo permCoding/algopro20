@@ -3,7 +3,7 @@
 # pip install requests
 import requests  
 
-link = 'https://pcoding.ru/csv/18.txt'
+link = 'https://pcoding.ru/csv/11.txt'
 # s = requests.get(link).text
 
 # txt = requests.get(link)
