@@ -9,7 +9,7 @@ def get_rec(num):
     if num == 0:
         return 0
     else:
-        return get_rec(num-1) + num
+        return num + get_rec(num-1)
 
 
 n = 100
