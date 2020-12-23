@@ -149,6 +149,19 @@ alias - псевдоним
 
 ---  
 
+**Тренировки декабря**  
+
+https://repl.it/@pCoding/tren01  
+https://repl.it/@pCoding/tren02  
+https://repl.it/@pCoding/tren03  
+https://repl.it/@pCoding/tren04  
+https://repl.it/@pCoding/tren05  
+
+
+
+---
+
+
 ```
 не рассмотрели поиск бинарный для объектов в файле  
 ```
