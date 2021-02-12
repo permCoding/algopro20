@@ -4,8 +4,8 @@
 
 ---  
 
-[СЕМЕСТР 1]()  
-[СЕМЕСТР 2]()  
+[СЕМЕСТР 1](https://github.com/permCoding/algopro20/blob/master/part1/README.md)  
+[СЕМЕСТР 2](https://github.com/permCoding/algopro20/blob/master/part2/README.md)  
   
 --- 
 
@@ -15,12 +15,7 @@
 
 ---
 
-### Лекции дистанционно тут:  
-* [Первая точка входа BBB](https://bbb.psaa.ru/b/and-jca-drk)  
-* [Первая точка входа BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
-* [Вторая точка входа Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
-* [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
-* [Четвёртая точка входа Discord](https://discord.gg/ZK4kgdn)  
+[Лекции дистанционно тут](https://bbb.psaa.ru/b/and-jca-drk)  
 
 ---  
 
