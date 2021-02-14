@@ -1,16 +1,18 @@
 ## Алгоритмизация и программирование
-## Учебный год 2020-2021 - семестр 2  
+### Учебный год 2020-2021 - семестр 2  
+Лекций - 14 шт., Л/Р - 11 шт.  
   
 --- 
 
-# Лекции дистанционно тут:  
-* [BBB](https://bbb.psaa.ru/b/and-jca-drk)  
+### Лекции дистанционно тут:  
 * [BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
+* [BBB](https://bbb.psaa.ru/b/and-jca-drk)  
 * [Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 * [MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
 * [Discord](https://discord.gg/ZK4kgdn)  
 
----
+---  
+---  
 
 [Рейтинг группы](https://docs.google.com/spreadsheets/d/1pUwkI5phMmji5xnegulpbJtcoNUg2s9QWh5CFuRQ3YE/edit#gid=126542365)  
 [Контрольные работы на Stepik`е](https://stepik.org/64867/)  
@@ -19,13 +21,21 @@
 [ГОСТ 19.701-90 СХЕМЫ АЛГОРИТМОВ, ПРОГРАММ ДАННЫХ И СИСТЕМ](https://pcoding.ru/gost/GOST_19.701-90_%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.pdf)  
 
 ---  
+---  
 
 ### ЛЕКЦИИ  
 
-**Лекция 1, 2 - 15.02.21**  
+**Лекции 1, 2 - 15.02.21**  
 [Функциональное программирование](https://github.com/permCoding/algopro20/tree/master/part2/01-func-coding/)  
 [Файлы](https://github.com/permCoding/algopro20/tree/master/part2/02-files/)  
 [Структуры данных](https://github.com/permCoding/algopro20/tree/master/part2/02-data-structure/)  
+
+**Лекции 3, 4 - 22.02.21**  
+**Лекции 5, 6 - 01.03.21**  
+**Лекции 7, 8 - 15.03.21**  
+**Лекции 9, 10 - 22.03.21**  
+**Лекции 11, 12 - 29.03.21**  
+**Лекции 13, 14 - 05.04.21**  
 
 ---  
 
@@ -36,13 +46,32 @@
 
 *На самом деле это подготовка к Учебной практике (летом)*  
 
+Документация:  
+https://pypi.org/project/numpy/  
+https://matplotlib.org/stable/index.html  
+По графикам вспомогательный материал есть тут:  
+[Лабораторки - ПРАКТИКУМ](https://pcoding.ru/pdf/PythonJunior.pdf)  
+В главе G Как построить график функции  
+
+Чтобы программа работала на вашем компьютере, сначала нужно установить необходимые библиотеки, введя команду в
+консоли, например так:  
+```
+pip install matplotlib
+```
+или так:  
+```
+pip install numpy
+```
+
+---  
+
 Сначала и обязательно полностью посмотрите два видео:  
 1) https://youtu.be/qLjHgUwLOrs  
 2) https://youtu.be/t3LloJzKiRE  
 
 Потом повторите их у себя.  
 Постарайтесь поменять:  
-- функции на графиках, точку разрыва.  
+- функции на графиках, точку разрыва (во втором).  
 - цвета и стили.
 
 Загрузите в свой репозиторий:  

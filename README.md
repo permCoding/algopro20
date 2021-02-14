@@ -15,7 +15,12 @@
 
 ---
 
-[Лекции дистанционно тут](https://bbb.psaa.ru/b/and-jca-drk)  
+### Лекции дистанционно тут:  
+* [BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
+* [BBB](https://bbb.psaa.ru/b/and-jca-drk)  
+* [Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
+* [MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
+* [Discord](https://discord.gg/ZK4kgdn)  
 
 ---  
 
