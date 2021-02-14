@@ -12,7 +12,7 @@
 
 ---
 
-[Рейтинг группы](https://docs.google.com/spreadsheets/d/1pUwkI5phMmji5xnegulpbJtcoNUg2s9QWh5CFuRQ3YE/edit?usp=sharing)  
+[Рейтинг группы](https://docs.google.com/spreadsheets/d/1pUwkI5phMmji5xnegulpbJtcoNUg2s9QWh5CFuRQ3YE/edit#gid=126542365)  
 [Контрольные работы на Stepik`е](https://stepik.org/64867/)  
 [Лабораторки - ПРАКТИКУМ](https://pcoding.ru/pdf/PythonJunior.pdf)  
 [Стандарт PEP 8 по оформлению кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)  
@@ -22,8 +22,10 @@
 
 **Лекция 1 - 15.02.21**  
 [Функциональное программирование](https://github.com/permCoding/algopro20/tree/master/part2/01-func-coding/)  
+**Лекция 1a - 15.02.21**  
+[Файлы](https://github.com/permCoding/algopro20/tree/master/part2/02-files/)  
 **Лекция 2 - 15.02.21**  
-[Структуры данных](https://github.com/permCoding/algopro20/tree/master/part2/02-02-data-structure/)  
+[Структуры данных](https://github.com/permCoding/algopro20/tree/master/part2/02-data-structure/)  
 
 ---  
 
