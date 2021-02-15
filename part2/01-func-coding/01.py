@@ -45,6 +45,13 @@ def get_bin(n):
     return ''.join(map(str, reversed(digits)))
 
 
+kg = get1(7)
+print(kg)
+
+a, b = 22, 33
+a, b = b, a
+print(a, b)
+
 d, m = get1(7)
 print(f'd = {d}; m = {m}')
 

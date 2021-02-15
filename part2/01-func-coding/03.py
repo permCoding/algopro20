@@ -1,4 +1,12 @@
 # ленивые вычисления
+
+x = 0
+y = 11
+if x > 0 and y%2 != 0 and True:
+    print('+')
+else:
+    print('-')
+
 # в Python 2 были два функции range и xrange
 # range возвращала список, xrange - итератор
 # в Python 3 осталась только ленивая range
@@ -9,8 +17,10 @@
 # генераторы
 r = range(10) # возвращает объект-генератор
 print(r) # где же сами значения ?
-# list
-# for
+print(list(r))
+for item in r:
+    print(item)
+
 
 def Fib(N):
     a, b = 1, 1
