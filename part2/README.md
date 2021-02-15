@@ -28,7 +28,7 @@
 **Лекции 1, 2 - 15.02.21**  
 [Функциональное программирование](https://github.com/permCoding/algopro20/tree/master/part2/01-func-coding/)  
 [Файлы](https://github.com/permCoding/algopro20/tree/master/part2/02-files/)  
-[Структуры данных](https://github.com/permCoding/algopro20/tree/master/part2/02-data-structure/)  
+[Структуры данных](https://github.com/permCoding/algopro20/tree/master/part2/03-data-structure/)  
 
 **Лекции 3, 4 - 22.02.21**  
 **Лекции 5, 6 - 01.03.21**  
