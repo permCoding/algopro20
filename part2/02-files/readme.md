@@ -58,8 +58,10 @@ for i in range(n):
 ```
 # p5
 f2 = open('output.txt', 'w')
+line = ''
 for i in range(n-1,-1,-1): # строки в обратном порядке
-    line = lines[i] + '\n' f2.write(line) # выводим строку в файл
+    line = lines[i] + '\n' 
+f2.write(line) # выводим строку в файл
 f2.close()
 ```
 
