@@ -3,9 +3,9 @@
 x = 0
 y = 11
 if x > 0 and y%2 != 0 and True:
-    print('+')
+    print('+ + +')
 else:
-    print('-')
+    print('- - -')
 
 # в Python 2 были два функции range и xrange
 # range возвращала список, xrange - итератор
@@ -18,29 +18,35 @@ else:
 r = range(10) # возвращает объект-генератор
 print(r) # где же сами значения ?
 print(list(r))
+
+print('- range -')
 for item in r:
     print(item)
+print('- range -')
+
+
+def range_(n):
+    i = 0
+    while i < n:
+        yield i
+        i += 1
+
+
+print('- yield -')
+for item in range_(10):
+    print(item)
+print('- yield -')
 
 
 def Fib(N):
     a, b = 1, 1
-    for _ in range(N):
+    for _ in range_(N):
         yield a
         a, b = b, a + b
 
 
-for next in Fib(5): # возвращает объект-генератор
+print('- Fib -')
+for next in Fib(10): # возвращает объект-генератор
     print(next)
+print('- Fib -')
 
-
-# итераторы
-lst = list(range(10)) # объект-итератор
-print(lst)
-lst = [smb for smb in '012345']
-print(lst)
-
-enum = [smb for smb in enumerate([1,4,55,9])]
-print(enum)
-
-for index, value in enumerate('Python'):
-    print(index, value)
