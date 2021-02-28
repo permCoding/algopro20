@@ -93,7 +93,7 @@ pip install numpy
 
 **Л/Р 2 - 2,3.03.21**  
 [Решить задачи по теме Массивы на Степике](https://stepik.org/lesson/416145/step/2?unit=405659)  
-- желательно в функциональном стиле (map, filter, reduce)  
+_желательно в функциональном стиле (map, filter, reduce)_  
 
 ---  
 
