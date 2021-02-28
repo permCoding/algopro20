@@ -1,11 +1,11 @@
 class Student():
-    def __init__(self, *args):
-        self.id = args[0]
+    def __init__(self, args):
+        self.id = int(args[0])
         self.name = args[1]
-        self.age = args[2]
-        self.ball = args[3]
+        self.age = int(args[2])
+        self.ball = float(args[3])
     def __str__(self):
-        return 'id =%3d name =%12s age =%3d ball = %.2f' % \
+        return '%3d %12s %4d %6.2f' % \
             (self.id, self.name, self.age, self.ball)
 
 
@@ -15,5 +15,5 @@ f.close()
 
 students = [Student(line.split('\t')) for line in lines]
 
-for student in students:
+for student in sorted(students, key=lambda st: st.ball, reverse=True):
     print(student)
