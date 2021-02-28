@@ -3,6 +3,8 @@ numbers = {
     '** ** **': 2
 }
 
-line = ' *\n**\n *\n *'
-key = ''.join(line.split('\n'))
+f = open('05.txt')
+lines = f.read().splitlines()
+key = ''.join(lines)
+
 print(numbers[key])
