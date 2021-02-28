@@ -1,5 +1,5 @@
 id	name	age	ball
-1	Aaa Aaa Aaa	19	4.3
-2	Aaa Aaa Aaa	19	4.2
-3	Aaa Aaa Aaa	19	3.9
-4	Aaa Aaa Aaa	19	4.5
+1	Иванов	20	4.3
+2	Яшин	20	4.2
+3	Петренко	17	3.9
+4	Aрутюнян	19	4.5

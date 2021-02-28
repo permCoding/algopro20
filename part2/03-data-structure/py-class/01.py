@@ -1,7 +1,3 @@
-'''
-проектирование снизу-вверх
-'''
-
 class Point():
 	def __init__(self, x, y):
 		self.x = x
@@ -9,11 +5,11 @@ class Point():
 	def __str__(self):
 		# return str(self.x) + ':' + str(self.y)
 		# return 'y = {1}; x = {0}'.format(self.x,self.y)
-		return 'x = %3d; y = %3d' % (self.x, self.y)
+		# return 'x = %3d; y = %3d' % (self.x, self.y)
+		return f'x = {self.x}; y = {self.y}'
 
 
 a = Point(10,3)
 
-print(int(a.x) + int(a.y))
-print(str(a.x) + str(a.y))
+print(int(a.x), int(a.y))
 print(a)
