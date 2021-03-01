@@ -1,3 +1,4 @@
+
 numbers = {
     ' *** * *': 1,
     '** ** **': 2
@@ -6,6 +7,8 @@ numbers = {
 f = open('06.txt')
 lines = f.read().splitlines()
 keys = [''.join(lines[num:num+4]) for num in range(0, len(lines), 4)]
+f.close()
 
+print(keys)
 for key in keys:
-    print(numbers[key])
+    print(numbers[key], end='')

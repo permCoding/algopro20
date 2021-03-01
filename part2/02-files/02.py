@@ -3,5 +3,6 @@ lines = f.readlines()
 f.close()
 
 for line in lines:
+    # print(line)
     # print(line[:-1])
     print(line.rstrip('\n'))

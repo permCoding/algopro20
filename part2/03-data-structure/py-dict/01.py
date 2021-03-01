@@ -12,6 +12,8 @@ def ex_2():
     names = ['дюжина', 'сотня', 'полсотни', 'дьявол']
     pairs = list(zip(names, numbers))
 
+    print(pairs)
+    
     for pair in pairs:
         print(pair[0], pair[1])
 
