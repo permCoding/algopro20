@@ -34,9 +34,9 @@
 **Лекции 5, 6 - 01.03.21**  
 [Структуры данных](https://github.com/permCoding/algopro20/tree/master/part2/03-data-structure/)  
 [Словари](https://youtu.be/sW_wWITLAYo)  
-[Классы и объекты](https://youtu.be/Af2snYYVgYw)  
 
 **Лекции 7, 8 - 15.03.21**  
+[Классы и объекты](https://youtu.be/Af2snYYVgYw)  
 
 **Лекции 9, 10 - 22.03.21**  
 
