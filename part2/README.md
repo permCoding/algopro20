@@ -40,8 +40,9 @@
 **Лекции 7, 8 - 15.03.21**  
 Шифрование - [папка 05-sifr](https://github.com/permCoding/algopro20/tree/master/part2/05-sifr)  
 1. Кодирование символов  
-2. Стеганография
-> [Презентация](https://docs.google.com/presentation/d/1r-5AzqCMbmDB6szlhI9-pN8_0ZTbBY9ysazHscwpiug/edit?usp=sharing)  
+2. Стеганография - [Презентация](https://docs.google.com/presentation/d/1r-5AzqCMbmDB6szlhI9-pN8_0ZTbBY9ysazHscwpiug/edit?usp=sharing)  
+
+---  
 
 **Лекции 9, 10 - 22.03.21**  
 [Классы и объекты](https://youtu.be/Af2snYYVgYw)  
