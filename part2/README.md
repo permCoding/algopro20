@@ -38,6 +38,7 @@
 
 **Лекции 7, 8 - 15.03.21**  
 Работа с графикой [ссылка на папку с программами](https://github.com/permCoding/algopro20/tree/master/part2/04-ASCII-Art)  
+> [Библиотека Pillow](https://github.com/python-pillow/Pillow/)  
 
 **Лекции 9, 10 - 22.03.21**  
 Шифрование - [папка 05-sifr](https://github.com/permCoding/algopro20/tree/master/part2/05-sifr)  

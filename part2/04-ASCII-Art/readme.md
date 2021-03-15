@@ -6,6 +6,7 @@
 _deadline - 27.03.21 24:00_  
 
 > ASCII-Art  
+> [Библиотека Pillow](https://github.com/python-pillow/Pillow/)  
 > [ASCII Art Video](https://youtu.be/qC-eM4JBh0w)  
 > [ASCII wiki](https://ru.wikipedia.org/wiki/ASCII)  
 > [ASCII-Art wiki](https://ru.wikipedia.org/wiki/ASCII-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)  
