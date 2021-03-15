@@ -34,7 +34,7 @@ for y in range(height):
             pos = 2
         if color >= segment * 3:
             pos = 3
-        result += symbols[pos] * 2
+        result += symbols[pos] * 3
     result += '\n'
 
 print(result)

@@ -5,6 +5,7 @@ from PIL import Image
 
 img = Image.open("color.jpg")
 
+print(img.size)
 width, height = img.size
 
 point1 = (0, 0)
