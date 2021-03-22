@@ -16,13 +16,25 @@ print(color)
 
 r, g, b = color
 
-bit = 7 # испытываем какой бит можно испортить
-shift = 1 << bit
+bit = 4 # испытываем какой бит можно испортить
+shift = 1 << bit # увеличить в 2**bit раз
 print(shift)
 r -= shift; g -= shift; b -= shift
 
 color = (r, g, b)
+print(color)
 rastr[x, y] = color
 
 img.save('_' + name_image)
 img.show()
+
+# x = 2 # 0010
+# x << 1 # 0100 == 4 
+# x >> 2 # 0001
+
+x = 3 << 3 
+# 000011
+# 011000 == 16 + 8 = 24
+# print(x)
+
+

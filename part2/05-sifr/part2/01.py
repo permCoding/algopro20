@@ -10,7 +10,7 @@ width, height = img.size  # исходные размеры рисунка
 x = width//2; y = height//2
 
 r, g, b = img.getpixel((x, y))
-r -= 64; g -= 64; b -= 64
+r -= 4; g -= 4; b -= 4
 
 print(r, g, b)
 
