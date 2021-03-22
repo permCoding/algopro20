@@ -6,8 +6,6 @@ lst = [ord(smb) for smb in line]
 
 print(lst)
 
-result = ''
-for item in lst:
-    result += chr(item)
+result = [chr(item) for item in lst]
 
-print(result)
+print(''.join(result))
