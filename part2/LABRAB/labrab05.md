@@ -1,8 +1,9 @@
-**Л/Р 5 - 23,24.03.21**  
-_deadline - 27.03.21 24:00_  
 # LABRAB05  
 
-> ASCII-Art  
+**Л/Р 5 - 23,24.03.21**  
+_deadline - 27.03.21 24:00_  
+
+ASCII-Art:  
 > [ASCII Art Video](https://youtu.be/qC-eM4JBh0w)  
 > [ASCII wiki](https://ru.wikipedia.org/wiki/ASCII)  
 > [ASCII-Art wiki](https://ru.wikipedia.org/wiki/ASCII-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)  
