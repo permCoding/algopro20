@@ -15,7 +15,7 @@ color = rastr[x, y]
 print(color)
 r, g, b = color
 
-dr = 0; dg = 0; db = 0 # запишем нули
+dr = 0; dg = 0; db = 0 # это запишем в младшие биты
 # берём самый правый бит
 r = (r & 254) | dr
 g = (g & 254) | dg

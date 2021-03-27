@@ -7,6 +7,7 @@ def ex_1():
 
 
 def ex_2():
+    ''' соберём алфавит шифрования '''
     eng = 'abcdefghijklmnopqrstuvwxyz'
     rus = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя'
     nums = '1234567890'
