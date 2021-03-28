@@ -14,11 +14,14 @@ class CaptchaNums:
 
 nums = '24########.###.#.###.##.####.#.#######.#.####..###.##.######.##.#.##..########.##.'
 nums = '35XXXX.XX.XX.XXXX..X.XXX.X..X..XXXX..X..X.X.XXX'
+
 obj = CaptchaNums(nums)
 num = int(input())
 print(obj.get_image_num(num))
 
+
 '''
+можно сделать цифры с другими размерами
 XXX
 X.X
 X.X

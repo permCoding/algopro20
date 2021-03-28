@@ -11,7 +11,8 @@ class CaptchaNums:
     def get_image_num(self):
         i = self.num*8
         line = self.nums[i:i+8]
-        lst = re.findall(r'..', line) # 1 -> ['.#', '##', '.#', '.#']
+        # lst = re.findall('..', line) # 1 -> ['.#', '##', '.#', '.#']
+        lst = re.findall('[.#]{2}', line) # 1 -> ['.#', '##', '.#', '.#']
         return '\n'.join(lst)
 
 
