@@ -21,5 +21,7 @@ try:
         # rows.sort(key=lambda item: (item['nameCur'], -item['id']))
         for row in rows:
             print(f'{row["id"]}\t{row["nameCur"]}')
+except:
+    print('ошибка чтения')
 finally:
     conn.close()

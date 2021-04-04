@@ -1,5 +1,5 @@
 import pymysql.cursors
-import module as m
+import modules.module as m
 
 
 conn = m.get_connection()
