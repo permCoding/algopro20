@@ -1,7 +1,8 @@
 # pip3 install PyMySQL
 
 import pymysql.cursors
- 
+
+# http://pgsha.ru:35080/phpmyadmin/index.php 
 conn = pymysql.connect(
     host='pgsha.ru', 
     user='soft0016', 
@@ -11,8 +12,8 @@ conn = pymysql.connect(
     cursorclass=pymysql.cursors.DictCursor)
 
 with conn.cursor() as cur:
-    sql = "SELECT * FROM curators"
-    cur.execute(sql) 
+    sql = "SELECT nameCur FROM curators"
+    cur.execute(sql)
     rows = cur.fetchall()
     for row in rows:
-        print(row["nameCur"])
+        print(row)

@@ -14,5 +14,6 @@ with conn.cursor() as cur:
     sql = "SELECT * FROM curators"
     cur.execute(sql) 
     rows = cur.fetchall()
+    # print(rows)
     for row in rows:
         print(row["nameCur"])
