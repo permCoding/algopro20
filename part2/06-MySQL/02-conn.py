@@ -15,7 +15,9 @@ def get_connection():
 conn = get_connection()
 try:
     with conn.cursor() as cur:
-        sql = "SELECT * FROM curators ORDER BY nameCur DESC"
+        sql = "SELECT * \
+            FROM curators \
+            ORDER BY nameCur ASC, id DESC"
         cur.execute(sql) 
         rows = cur.fetchall()
         # rows.sort(key=lambda item: (item['nameCur'], -item['id']))
@@ -24,4 +26,5 @@ try:
 except:
     print('ошибка чтения')
 finally:
+    print('соединение закрыто')
     conn.close()
