@@ -35,6 +35,9 @@ CREATE TABLE `students` (
 ```SQL
 ALTER TABLE `students`
 ADD PRIMARY KEY (`id`);
+
+ALTER TABLE `students`
+MODIFY `id` int NOT NULL AUTO_INCREMENT;
 ```
 
 ```SQL
@@ -103,4 +106,12 @@ SELECT
 FROM `students` 
 GROUP BY `date` 
 HAVING `amount` > 1;
+```
+
+```SQL
+"ALTER TABLE `groups` 
+ADD FOREIGN KEY (`idCur`) 
+REFERENCES `curators`(`id`) 
+ON DELETE RESTRICT 
+ON UPDATE RESTRICT;"
 ```
