@@ -109,9 +109,9 @@ HAVING `amount` > 1;
 ```
 
 ```SQL
-"ALTER TABLE `groups` 
+ALTER TABLE `groups` 
 ADD FOREIGN KEY (`idCur`) 
 REFERENCES `curators`(`id`) 
 ON DELETE RESTRICT 
-ON UPDATE RESTRICT;"
+ON UPDATE RESTRICT;
 ```
